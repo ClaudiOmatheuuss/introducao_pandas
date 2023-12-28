@@ -16,5 +16,5 @@
 - Iterações em DataFrames;
 - Tratamento de dados NaN em um dataset fictício de uma concessionária de carros;
 
-  Para entender melhor sobre você pode acessar meu Notebook lá tenho algumas anotações interessantes: 
+  Para entender melhor sobre você pode acessar meu Notebook lá tenho algumas anotações interessantes e o link para download do arquivo .csv utilizado no treinamento: 
 <a href="https://colab.research.google.com/drive/1Pk0jweyDEjicyzAH56pum7_ujzM98gOC?usp=sharing" target="_blank">Meu notebook</a>
