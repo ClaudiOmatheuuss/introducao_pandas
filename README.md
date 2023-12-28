@@ -8,6 +8,7 @@
 - funcionamento de tuplas e listas;
 - funcionamento de dicionarios;
 - como fazer iterações em tuplas, listas e dicionarios;
+- Operações com tuplas, listas e dicionarios;
 - como acessar dados em tuplas, listas e dicionarios mais complexos;
 - como fazer desempacotamento de tuplas;
 - Built-in Functions do Python;
